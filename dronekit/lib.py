@@ -1,5 +1,5 @@
 # Backwards compatibility
 from dronekit import *
 
-def subtract(x,y):
-	pass
+#def subtract(x,y):
+#	pass
